@@ -1,0 +1,16 @@
+Importance:
+Simple language and very efficient to use.
+Structured program.
+Easy to detect errors.
+
+structure of c:
+1.Documemtation section.
+2.link section.
+3.Global declaration.
+4.Fuction prototype declaration.
+5.Main section:
+   1.Declaration part
+   2.Excutive part
+6.Userdefine functions.
+
+Note: Link section and main section is mandatory.
